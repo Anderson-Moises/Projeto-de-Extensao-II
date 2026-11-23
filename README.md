@@ -1,25 +1,27 @@
 # IA como ferramenta, não como substituta do pensamento
 
-Projeto de extensão acadêmica desenvolvido no curso de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco no uso consciente da Inteligência Artificial Generativa como ferramenta de apoio à aprendizagem.
+**Projeto de Extensão Acadêmica — Análise e Desenvolvimento de Sistemas (ADS)**
+
+Projeto desenvolvido com o objetivo de incentivar o uso consciente da Inteligência Artificial Generativa como ferramenta de apoio à aprendizagem, preservando o pensamento crítico e a autonomia dos usuários.
 
 ## Sobre o projeto
 
 A popularização das ferramentas de Inteligência Artificial Generativa ampliou as possibilidades de acesso à informação e ao conhecimento. Entretanto, saber utilizar essas ferramentas vai além de simplesmente fazer perguntas e receber respostas.
 
-Este projeto teve como proposta incentivar uma relação mais consciente e crítica com a Inteligência Artificial, demonstrando como elaborar solicitações mais claras e utilizar a tecnologia para apoiar o aprendizado, sem substituir o pensamento, a autonomia e a capacidade de compreensão das pessoas.
+Este projeto propôs uma oficina prática para demonstrar como elaborar solicitações mais claras e utilizar a Inteligência Artificial como apoio ao aprendizado, sem substituir a capacidade de compreensão, reflexão e construção do conhecimento.
 
-A iniciativa foi realizada por meio de uma oficina prática, utilizando a metodologia **O.C.A.L.**
+A atividade foi desenvolvida por meio da metodologia **O.C.A.L.**
 
 ## Metodologia O.C.A.L.
 
-A metodologia O.C.A.L. foi utilizada como referência para a construção de prompts mais claros e objetivos:
+A metodologia O.C.A.L. foi utilizada como referência para a elaboração de prompts mais claros e objetivos.
 
-| Elemento | Significado | Finalidade |
-|---|---|---|
-| **O** | Objetivo | Definir o que se deseja alcançar. |
-| **C** | Contexto | Apresentar informações que ajudem a compreender a solicitação. |
-| **A** | Tipo de Auxílio | Especificar como a Inteligência Artificial deve ajudar. |
-| **L** | Limite | Estabelecer o que a ferramenta deve ou não fazer. |
+| Elemento | Significado     | Finalidade                                                     |
+| -------- | --------------- | -------------------------------------------------------------- |
+| **O**    | Objetivo        | Definir o que se deseja alcançar.                              |
+| **C**    | Contexto        | Apresentar informações que ajudem a compreender a solicitação. |
+| **A**    | Tipo de Auxílio | Especificar como a Inteligência Artificial deve ajudar.        |
+| **L**    | Limite          | Estabelecer o que a ferramenta deve ou não fazer.              |
 
 A proposta é utilizar a Inteligência Artificial como apoio ao raciocínio, à pesquisa e à aprendizagem, evitando a dependência de respostas prontas.
 
@@ -34,8 +36,6 @@ A proposta é utilizar a Inteligência Artificial como apoio ao raciocínio, à 
 
 ## Atividades desenvolvidas
 
-A oficina foi organizada em etapas:
-
 1. Acolhida e registro dos participantes.
 2. Dinâmica inicial — Desafio das Instruções.
 3. Aplicação anônima do pré-teste.
@@ -49,9 +49,9 @@ A oficina foi organizada em etapas:
 
 A compreensão dos participantes foi avaliada por meio de pré-teste e pós-teste anônimos, compostos por três questões.
 
-| Indicador | Pré-teste | Pós-teste |
-|---|---:|---:|
-| Média geral de acertos | 66,67% | 97,92% |
+| Indicador              | Pré-teste | Pós-teste |
+| ---------------------- | --------: | --------: |
+| Média geral de acertos |    66,67% |    97,92% |
 
 A diferença entre os resultados foi de **31,25 pontos percentuais**, representando um aumento relativo de 46,875%.
 
@@ -59,18 +59,19 @@ Como os instrumentos foram anônimos, os resultados permitem comparar o desempen
 
 A oficina também proporcionou experimentação prática, reflexão sobre a clareza das solicitações e discussão sobre o uso responsável da Inteligência Artificial nos estudos.
 
-## Materiais do projeto
+## Organização do repositório
 
-Este repositório reúne materiais utilizados e produzidos durante o desenvolvimento da atividade, incluindo:
+O repositório reúne os documentos, materiais de apoio e registros relacionados ao planejamento, à divulgação e à execução do projeto.
 
-- Guia prático da metodologia O.C.A.L.
-- Apresentação utilizada na oficina.
-- Material informativo distribuído aos participantes.
-- Instrumentos de avaliação.
-- Registros fotográficos.
-- Registro audiovisual da oficina.
-
-Os arquivos e suas respectivas pastas serão organizados neste repositório.
+| Pasta           | Conteúdo                                                                  |
+| --------------- | ------------------------------------------------------------------------- |
+| `Apresentacao/` | Apresentação geral do projeto de extensão.                                |
+| `Avaliacao/`    | Instrumentos de avaliação, testes e depoimentos.                          |
+| `Divulgacao/`   | Imagens e vídeos utilizados na divulgação da oficina.                     |
+| `Evidencias/`   | Fotografias e vídeos que registram a realização das atividades.           |
+| `Materiais/`    | Imagens produzidas, slides, panfleto digital e materiais de apresentação. |
+| `Roteiros/`     | Documentos dos três roteiros acadêmicos do projeto.                       |
+| `Videos/`       | Vídeo utilizado durante a oficina.                                        |
 
 ## Finalidade acadêmica
 
@@ -80,9 +81,9 @@ A iniciativa busca contribuir para a educação digital e incentivar o uso da In
 
 ## Autor
 
-**Anderson Moisés**  
+**Anderson Moisés**
 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
 ---
 
-*Projeto de extensão acadêmica — 2026.*
+*Projeto de Extensão Acadêmica — 2026.*
