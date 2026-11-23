@@ -1,2 +1,88 @@
-# Projeto-de-Extensao-II
-Projeto de extensão acadêmica sobre o uso consciente da Inteligência Artificial Generativa na aprendizagem, com aplicação prática da metodologia O.C.A.L. (Objetivo, Contexto, Tipo de Auxílio e Limite).
+# IA como ferramenta, não como substituta do pensamento
+
+Projeto de extensão acadêmica desenvolvido no curso de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco no uso consciente da Inteligência Artificial Generativa como ferramenta de apoio à aprendizagem.
+
+## Sobre o projeto
+
+A popularização das ferramentas de Inteligência Artificial Generativa ampliou as possibilidades de acesso à informação e ao conhecimento. Entretanto, saber utilizar essas ferramentas vai além de simplesmente fazer perguntas e receber respostas.
+
+Este projeto teve como proposta incentivar uma relação mais consciente e crítica com a Inteligência Artificial, demonstrando como elaborar solicitações mais claras e utilizar a tecnologia para apoiar o aprendizado, sem substituir o pensamento, a autonomia e a capacidade de compreensão das pessoas.
+
+A iniciativa foi realizada por meio de uma oficina prática, utilizando a metodologia **O.C.A.L.**
+
+## Metodologia O.C.A.L.
+
+A metodologia O.C.A.L. foi utilizada como referência para a construção de prompts mais claros e objetivos:
+
+| Elemento | Significado | Finalidade |
+|---|---|---|
+| **O** | Objetivo | Definir o que se deseja alcançar. |
+| **C** | Contexto | Apresentar informações que ajudem a compreender a solicitação. |
+| **A** | Tipo de Auxílio | Especificar como a Inteligência Artificial deve ajudar. |
+| **L** | Limite | Estabelecer o que a ferramenta deve ou não fazer. |
+
+A proposta é utilizar a Inteligência Artificial como apoio ao raciocínio, à pesquisa e à aprendizagem, evitando a dependência de respostas prontas.
+
+## Informações da oficina
+
+- **Data:** 14 de novembro de 2026.
+- **Local:** Igreja do Evangelho Vivo — Vila Norma, São João de Meriti/RJ.
+- **Público alcançado:** 16 participantes.
+- **Faixa etária:** 7 a 15 anos.
+- **Duração aproximada:** 70 minutos.
+- **ODS relacionado:** ODS 4 — Educação de Qualidade.
+
+## Atividades desenvolvidas
+
+A oficina foi organizada em etapas:
+
+1. Acolhida e registro dos participantes.
+2. Dinâmica inicial — Desafio das Instruções.
+3. Aplicação anônima do pré-teste.
+4. Apresentação da metodologia O.C.A.L.
+5. Experimentação prática com ferramentas de Inteligência Artificial, utilizando os celulares dos participantes.
+6. Aplicação do pós-teste e avaliação da oficina.
+7. Registro dos depoimentos dos participantes.
+8. Encerramento e registro fotográfico.
+
+## Resultados
+
+A compreensão dos participantes foi avaliada por meio de pré-teste e pós-teste anônimos, compostos por três questões.
+
+| Indicador | Pré-teste | Pós-teste |
+|---|---:|---:|
+| Média geral de acertos | 66,67% | 97,92% |
+
+A diferença entre os resultados foi de **31,25 pontos percentuais**, representando um aumento relativo de 46,875%.
+
+Como os instrumentos foram anônimos, os resultados permitem comparar o desempenho geral do grupo, mas não identificar a evolução individual de cada participante.
+
+A oficina também proporcionou experimentação prática, reflexão sobre a clareza das solicitações e discussão sobre o uso responsável da Inteligência Artificial nos estudos.
+
+## Materiais do projeto
+
+Este repositório reúne materiais utilizados e produzidos durante o desenvolvimento da atividade, incluindo:
+
+- Guia prático da metodologia O.C.A.L.
+- Apresentação utilizada na oficina.
+- Material informativo distribuído aos participantes.
+- Instrumentos de avaliação.
+- Registros fotográficos.
+- Registro audiovisual da oficina.
+
+Os arquivos e suas respectivas pastas serão organizados neste repositório.
+
+## Finalidade acadêmica
+
+O projeto foi desenvolvido como atividade de extensão do curso de Análise e Desenvolvimento de Sistemas, relacionando conhecimentos de tecnologia, organização de informações, comunicação e responsabilidade social.
+
+A iniciativa busca contribuir para a educação digital e incentivar o uso da Inteligência Artificial de maneira consciente, crítica e responsável.
+
+## Autor
+
+**Anderson Moisés**  
+Estudante de Análise e Desenvolvimento de Sistemas (ADS).
+
+---
+
+*Projeto de extensão acadêmica — 2026.*
