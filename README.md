@@ -73,6 +73,8 @@ O repositório reúne os documentos, materiais de apoio e registros relacionados
 | `Roteiros/`     | Documentos dos três roteiros acadêmicos do projeto.                       |
 | `Videos/`       | Vídeo utilizado durante a oficina.                                        |
 
+A pasta `Roteiros/` reúne os documentos acadêmicos produzidos ao longo das três etapas do projeto, permitindo acompanhar sua evolução desde a proposta inicial até o relatório final. Também inclui uma versão integral do relatório, preservando conteúdos que foram sintetizados ou retirados durante a adequação do documento entregue.
+
 ## Finalidade acadêmica
 
 O projeto foi desenvolvido como atividade de extensão do curso de Análise e Desenvolvimento de Sistemas, relacionando conhecimentos de tecnologia, organização de informações, comunicação e responsabilidade social.
